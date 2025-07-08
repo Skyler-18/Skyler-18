@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-I'm currently pursuing a B.Sc. in **Data Science and Applications** at IIT Madras, driven by a passion for creating intelligent, scalable, and explainable AI systems. I love digging deep into the **fundamentals** of Machine Learning — I’ve even coded ML models from scratch to understand every layer inside-out.
+I'm currently pursuing a B.S. in **Data Science and Applications** at IIT Madras, driven by a passion for creating intelligent, scalable, and explainable AI systems. I love digging deep into the **fundamentals** of Machine Learning — I’ve even coded ML models from scratch to understand every layer inside-out.
 
 Whether it's **deep learning**, **natural language processing**, or deploying full-stack ML applications using **MLOps pipelines**, I thrive at the intersection of **math, code, and creativity**.
 
@@ -56,7 +56,7 @@ Currently, I’m seeking **internship opportunities** in **AI/ML, NLP, or MLOps*
 ### 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/hardik18)  
-- 📫 Email: 23f1002590@ds.study.iitm.ac.in  
+- 📫 Email: hardik.goriwan@gmail.com  
 - 💻 Portfolio / Projects: [GitHub](https://github.com/Skyler-18)
 
 ---
